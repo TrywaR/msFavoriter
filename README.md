@@ -11,7 +11,7 @@ MODX Revo | MiniShop2 > Избранные товары
 
 ## Оформление html
 
-###Вывод избранных товаров
+### Вывод избранных товаров
 ```
 <div class="col-12 col-md-12">
   <div class="row ms2_products">
